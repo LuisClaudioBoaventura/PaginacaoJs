@@ -23,3 +23,4 @@
 <p align="center">
  <img width="500px" src="https://user-images.githubusercontent.com/79278484/168497661-0c8275a7-3497-4163-a6ec-38c61b1fddcf.png" align="center" alt="Projeto de Paginação">
 
+Link para vizualição da pagina: https://codepen.io/luisclaudioboaventura/pen/KKQawOe
